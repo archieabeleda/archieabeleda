@@ -1,8 +1,8 @@
 # Archie Abeleda
 
 <samp>
-ID: Armando Abeleda Jr.<br>
-Run as: Archie
+**ID: Armando Abeleda Jr.**<br>
+**Run as: Archie**
 </samp>
 
 
