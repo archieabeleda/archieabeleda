@@ -13,14 +13,14 @@ do not do them twice.
 
 ### What I'm into right now
 
-- Cisco ACI tenant automation with Ansible and the REST API.
+- Network operation automation
 - Running local LLMs to audit device configs. No cloud, nothing leaves the lab.
 - A home AIOps lab on Proxmox, because production is a terrible place to learn.
 
 ### Find me
 
 - Site: https://archieabeleda.dev
-- Project writeups: https://archieabeleda.github.io
+- Project writeups: https://archieabeleda.github.io/netops-automation/
 - LinkedIn: https://www.linkedin.com/in/ajrabeleda
 
 ### Certifications
