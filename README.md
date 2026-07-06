@@ -1,8 +1,8 @@
 # Archie Abeleda
 
 <samp>
-UID: Armando Abeleda Jr.<br>
-Execute as: Archie
+ID: Armando Abeleda Jr.<br>
+Run as: Archie
 </samp>
 
 Network, cloud and security engineer. Thirteen years of it. I build and secure the
