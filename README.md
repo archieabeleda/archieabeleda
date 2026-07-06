@@ -1,16 +1,37 @@
-## Hi there 👋
+# Archie Abeleda
 
-<!--
-**archieabeleda/archieabeleda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+UID: Armando Abeleda Jr.<br>
+Execute as: Archie
+</samp>
 
-Here are some ideas to get you started:
+Network, cloud and security engineer. Thirteen years of it. I build and secure the
+boring infrastructure everything else sits on, then automate the dull parts so I
+do not do them twice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Paranoid by trade, boring by design.**
+
+### What I'm into right now
+
+- Cisco ACI tenant automation with Ansible and the REST API.
+- Running local LLMs to audit device configs. No cloud, nothing leaves the lab.
+- A home AIOps lab on Proxmox, because production is a terrible place to learn.
+
+### Find me
+
+- Site: https://archieabeleda.dev
+- Project writeups: https://archieabeleda.github.io
+- LinkedIn: https://www.linkedin.com/in/ajrabeleda
+
+### Certifications
+
+[CISSP](https://www.credly.com/badges/00c78370-a452-4af7-bec9-78c4dd4a7720) ·
+[CCSP](https://www.credly.com/badges/651c7d74-5b6c-49fd-997b-9a498aa21085) ·
+[CCNP Security](https://www.credly.com/badges/cd480174-94f9-4bbc-83a9-6b7c5ceb7ab5) ·
+[PCNSE](https://www.credly.com/badges/5b44c034-8424-43c4-ab25-6cc8f60e01cd)
+
+All verifiable on Credly.
+
+### Off the clock
+
+Brazilian jiu-jitsu, backcountry camping, and reading dead Stoics.
