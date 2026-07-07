@@ -7,7 +7,7 @@ Run as: Archie
 
 
 
-Network, cloud and security engineer. Thirteen years of it. I build and secure the
+Security Engineer, Network and Cloud. Thirteen years of it. I build and secure the
 boring infrastructure everything else sits on, then automate the dull parts so I
 do not do them twice.
 
