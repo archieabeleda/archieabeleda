@@ -29,8 +29,7 @@ do not do them twice.
 
 [CISSP](https://www.credly.com/badges/00c78370-a452-4af7-bec9-78c4dd4a7720) ·
 [CCSP](https://www.credly.com/badges/651c7d74-5b6c-49fd-997b-9a498aa21085) ·
-[CCNP Security](https://www.credly.com/badges/cd480174-94f9-4bbc-83a9-6b7c5ceb7ab5) ·
-[PCNSE](https://www.credly.com/badges/5b44c034-8424-43c4-ab25-6cc8f60e01cd)
+[Cisco Security Specialist](https://www.credly.com/badges/cd480174-94f9-4bbc-83a9-6b7c5ceb7ab5)
 
 All verifiable on Credly.
 
